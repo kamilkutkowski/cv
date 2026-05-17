@@ -1,0 +1,36 @@
+[
+    {
+        "education": {
+            "Master_Engineering": {
+                "year": "Mar 2012 - Sep 2015",
+                "title": "Master of Engineering in Mechatronics",
+                "thesis": "Project of DC‑DC converter with MPPT algorithm of P&O type for photovoltaic systems (PV)"
+            },
+            "Engineer": {
+                "year": "Oct 2008 - Mar 2012",
+                "title": "Mechatronics Engineer",
+                "thesis": "Project of synchronizing pulse amplifier for rockets tracking station"
+            }
+        },
+        "work": {
+            "DevOps_Engineer": {
+                "year": "Aug 2020 - Oct 2021",
+                "company": "Nationale-Nederlanden via apreel, Warsaw",
+                "title": "DevOps Engineer",
+                "duties": [
+                    "Designing and implementing build, deployment, and configuration management",
+                    "Testing implemented designs",
+                    "Building and testing automation tools for infrastructure provisioning",
+                    "Handling code deployments in all environments",
+                    "Monitoring metrics and developing ways to improve this process",
+                    "Brainstorming new ideas and ways to improve development delivery",
+                    "Building, maintaining and monitoring configuration standards",
+                    "Maintaining day‑to‑day management and administration of projects",
+                    "Managing CI and CD tools with team",
+                    "Documenting and designing various processes and updating existing ones",
+                    "Improving infrastructure development and application development"
+                ]
+            }
+        }
+    }
+]
